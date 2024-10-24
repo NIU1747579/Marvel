@@ -1,1 +1,12 @@
  
+[main (comissió arrel) 9748c51] Capitan Marvel
+ 2 files changed, 2 insertions(+)
+ create mode 100644 movies
+ create mode 100644 personatges
+En la branca main
+Canvis no «staged» per a cometre:
+  (useu «git add <fitxer>...» per a actualitzar què es cometrà)
+  (useu «git restore <file>...» per a descartar canvis en el directori de treball)
+	modificat:        movies
+
+no hi ha canvis afegits a cometre (useu «git add» o «git commit -a»)
